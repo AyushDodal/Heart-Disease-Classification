@@ -66,7 +66,8 @@ cd heart-disease-prediction```
 pip install -r requirements.txt
 
 ### 3️⃣ Run the Streamlit App
-streamlit run app.py
+streamlit run app.py```
+
 
 
 ## ⚠️ Disclaimer
