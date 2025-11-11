@@ -60,14 +60,16 @@ This project predicts whether a patient has heart disease based on clinical attr
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/heart-disease-prediction.git
-cd heart-disease-prediction ```
-
+cd heart-disease-prediction
+```
 ### 2️⃣ Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 ### 3️⃣ Run the Streamlit App
-streamlit run app.py ```
-
+```
+streamlit run app.py
+```
 
 
 ## ⚠️ Disclaimer
